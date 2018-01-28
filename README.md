@@ -1,26 +1,24 @@
 # I_UWB_DT-SDK
-An open source test platform for I_UWB_DT.
+An open source test platform for I-UWB LPS.
 # Overview
-* Hardware: I_UWB_DT & INF_STM32F407_CoreBoard
+* Hardware: I-UWB LPS & INF_STM32F407_CoreBoard
 * IDE: Keil MDK 5.14
 * Code: C
-* Copyright: inf
+* Copyright: INF
 
 # Quick Start Guide
-The factory settings of I_UWB_DT:
-* Mode: Two Way Coummunication Mode
-* USART: 921600 BaudRate,8b WordLength,1 StopBits,No Parity
+* USART: USART1,460800 BaudRate,8b WordLength,1 StopBits,No Parity
 
-USART1 port of INF_STM32F407_CoreBoard send data frame to I_UWB_DT.
+# You can buy the CoreBoard in the next link
+* https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-17307891297.13.56d1f659Lht1yt&id=558282731480
+* # You can buy I-UWB LPS in the next link
+  https://item.taobao.com/item.htm?spm=a230r.1.14.194.1384a639BTaFbL&id=526053109596&ns=1&abbucket=6#detail
 
-# You can buy the kit in the store
-* https://item.taobao.com/item.htm?spm=a230r.1.14.19.6e9f168M8Ga6G&id=557760065507&ns=1&abbucket=1#detail
-
-# Support
+  # Support
 You can get support from INF and the community with the following methods:
-* website: www.inffuture.com
-* shop: https://inffuture.taobao.com
-* github: www.github.com/inf-labs
-* wechat platform id: inffuture
+* Website: www.inffuture.com
+* Shop: https://inffuture.taobao.com
+* Github: www.github.com/inf-labs
+* Wechat Platform id: inffuture
 
 
